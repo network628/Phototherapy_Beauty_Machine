@@ -1,0 +1,17 @@
+..\obj\timer3.o: ..\HARDWARE\timer\timer3.c
+..\obj\timer3.o: ..\USER\stm32f10x.h
+..\obj\timer3.o: ..\CORE\core_cm3.h
+..\obj\timer3.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\timer3.o: ..\USER\system_stm32f10x.h
+..\obj\timer3.o: ..\USER\stm32f10x_conf.h
+..\obj\timer3.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+..\obj\timer3.o: ..\USER\stm32f10x.h
+..\obj\timer3.o: ..\STM32F10x_FWLib\inc\stm32f10x_flash.h
+..\obj\timer3.o: ..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+..\obj\timer3.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\timer3.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\timer3.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\obj\timer3.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\timer3.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\timer3.o: ..\HARDWARE\timer\timer3.h
+..\obj\timer3.o: ..\USER\main.h

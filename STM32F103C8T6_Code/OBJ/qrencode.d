@@ -1,0 +1,14 @@
+..\obj\qrencode.o: ..\HARDWARE\QR_ENCODE\qrencode.c
+..\obj\qrencode.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\qrencode.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\qrencode.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\qrencode.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+..\obj\qrencode.o: ..\HARDWARE\QR_ENCODE\qrencode.h
+..\obj\qrencode.o: ..\HARDWARE\QR_ENCODE\qrspec.h
+..\obj\qrencode.o: ..\HARDWARE\QR_ENCODE\mqrspec.h
+..\obj\qrencode.o: ..\HARDWARE\QR_ENCODE\bitstream.h
+..\obj\qrencode.o: ..\HARDWARE\QR_ENCODE\qrinput.h
+..\obj\qrencode.o: ..\HARDWARE\QR_ENCODE\rscode.h
+..\obj\qrencode.o: ..\HARDWARE\QR_ENCODE\split.h
+..\obj\qrencode.o: ..\HARDWARE\QR_ENCODE\mask.h
+..\obj\qrencode.o: ..\HARDWARE\QR_ENCODE\mmask.h
